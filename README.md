@@ -16,7 +16,7 @@ Works on hosts that don't allow plugins or modification of Wordpress installs. J
           Your Menu Entry Name Goes Here
       </div>
 
-    Where `category_name` is a category used to tag articles with
+  Where `category_name` is a category used to tag articles with
 
   3) A dynamic menu will now appear under your menu item. 
      It will adopt your Wordpress theme's appearance and behavior.
