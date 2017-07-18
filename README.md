@@ -17,7 +17,8 @@ Works on hosts that don't allow plugins or modification of Wordpress installs. J
 
 ```      <div class="dd_menu" id="category_name">
           Your Menu Entry Name Goes Here
-      </div>```
+      </div>
+```
 
   Where `category_name` is a category used to tag articles with
 
