@@ -1,4 +1,5 @@
 # Dynamic Drop Down Menu for Wordpress
+![Example of Dynamic Drop Down Menu for Wordpress](https://github.com/thismachinechills/wordpress_menu/raw/master/example.gif)
 Theme agnostic drop down menu for Wordpress. Built on WP-REST API included in Wordpress 4.7+. Will adopt any theme's CSS styling and behavior for drop down menus.
 
 Works on hosts that don't allow plugins or modification of Wordpress installs. Just embed in your Wordpress install's header.
