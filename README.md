@@ -15,7 +15,8 @@ Works on hosts that don't allow plugins or modification of Wordpress installs. J
 
   2) Wrap name of a menu entry with:
 
-```      <div class="dd_menu" id="category_name">
+```      
+      <div class="dd_menu" id="category_name">
           Your Menu Entry Name Goes Here
       </div>
 ```
